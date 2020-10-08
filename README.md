@@ -4,8 +4,7 @@ Deploy an Elastic Stack Server in Azure
 
 The files in this repository were used to configure the network depicted below.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cfe291a7-0ec1-48c3-834d-89fd16621202/ELK_Diagram.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cfe291a7-0ec1-48c3-834d-89fd16621202/ELK_Diagram.jpg)
-
+ELK Diagram.jpg
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above or, alternatively, select portions of the  file may be used to install only certain pieces of it, such as Filebeat.
 
